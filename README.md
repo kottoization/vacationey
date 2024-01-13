@@ -1,5 +1,5 @@
 # Vacationey
-
+ 
 Fictional company Vacationey is a travel agency.
 This project is a user-friendly webpage providing functionality for this brand.
 Potential client can search for the perfect offer in a desired location.
